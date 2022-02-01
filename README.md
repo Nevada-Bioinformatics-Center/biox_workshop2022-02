@@ -1,3 +1,3 @@
-# Bioinformatics workshop miniseries resources website
+# Bioinformatics workshop miniseries resource website
 
 Course materials will be added to this github/webpage
